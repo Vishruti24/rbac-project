@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node & React common
 node_modules/
 npm-debug.log*
@@ -24,3 +25,9 @@ Thumbs.db
 
 # Backend build (if any)
 build/
+=======
+node_modules/
+.env
+npm-debug.log*
+yarn-error.log*
+>>>>>>> backend/RBAC-project
